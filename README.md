@@ -3,11 +3,11 @@
 21/11/2018
 
 ***0*** *Genel
-0.  eski linked-list calisma kodumuzu bul. oku ve tekrar yaz.
-1.  bir diziyi tekrar eden sayilariyla birlikte linked-list'e tasima calismasi yap. (***1***'de aciklandi.)
-2.  calisirsa sorudaki brr ve arr dizileri üzerinde implimente et.
-3.  ilerleyebildiğin kadar ilerle, en son sorudaki kaynak kodu analiz et. Tasimayi gerceklestir.
-4.  kontrol kodlarını yedekle ve temizle.
+1.  eski linked-list calisma kodumuzu bul. oku ve tekrar yaz.
+2.  bir diziyi tekrar eden sayilariyla birlikte linked-list'e tasima calismasi yap. (***1***'de aciklandi.)
+3.  calisirsa sorudaki brr ve arr dizileri üzerinde implimente et.
+4.  ilerleyebildiğin kadar ilerle, en son sorudaki kaynak kodu analiz et. Tasimayi gerceklestir.
+5.  kontrol kodlarını yedekle ve temizle.
 
 ***1*** *Dizi analizi
 1.  brr dizisinin sifir indisli elemani ile bir linked-list olustur.
